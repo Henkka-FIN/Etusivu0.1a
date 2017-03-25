@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_Valikko1"
+        android:checkable="false"
+        android:title="Kirjaudu sisään" />
+    <item
+        android:id="@+id/nav_Valikko2"
+        android:title="Valikko2" />
+    <item
+        android:id="@+id/nav_Valikko3"
+        android:title="Valikko3" />
+    <item
+        android:id="@+id/nav_Valikko4"
+        android:title="Valikko4" />
+
+
+</menu>
